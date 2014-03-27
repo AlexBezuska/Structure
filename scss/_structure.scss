@@ -90,13 +90,14 @@ $col-gutter-half: $col-gutter/2;
 }
 
 .col2-3,
+.col4-6,
 .col6-9{ 
  @extend .col;
  width: 66.6666666667%; 
 }
 
 .col1-4,
-.col4-6{ 
+.col2-8{ 
  @extend .col;
  width: 25%; 
 }
