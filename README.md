@@ -10,15 +10,15 @@ Lightweight SCSS layout, positioning &amp; opinionated defaults.
 ###Example
 ```scss
   .page{
-    @include bp(papa-bear) {
+    @include breakpoint(papa-bear) {
       width: 80%;
     }
 
-    @include bp(mama-bear) {
+    @include breakpoint(mama-bear) {
       width: 50%;
     }
 
-    @include bp(baby-bear) {
+    @include breakpoint(baby-bear) {
       min-width: 370px;
       max-width: 100%;
     }
