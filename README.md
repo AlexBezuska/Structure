@@ -5,6 +5,9 @@ Lightweight SCSS layout, positioning system based on [Chris Coyier's](https://gi
 
 ---
 
+View a demo in CodePen here are play around with the html to see how the grids work: [Structure CodePen demo](http://codepen.io/AlexBezuska/pen/KAqFj)
+---
+
 ###Column layouts
 
 Layouts in structure are based on rows and columns, columns do not have to be inside rows, but you will get much more predictable results if they are.
